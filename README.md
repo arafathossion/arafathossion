@@ -7,13 +7,13 @@ I am a Professional React Front-end Website Developer. I work as a Website Devel
 I've completed Some web projects with excellent efficiency and fully satisfied customers. I can help you build a professional MERN website for your business.
 
 ## Skills & Experiance:
--✔ REACT
--✔Javascript 
--✔Node.js
--✔Express.js
--✔MongoDB
--✔HTML
--✔CSS
+✔ REACT <br/>
+✔Javascript <br/>
+✔Node.js <br/>
+✔Express.js <br/>
+✔MongoDB <br/>
+✔HTML <br/>
+✔CSS <br/>
 
 - 🔭 I’m currently working on this page. 
 
